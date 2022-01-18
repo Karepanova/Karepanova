@@ -11,7 +11,7 @@
 ***
 
 **Мой стек:**
-|JavaScript|HTML|CSS|React|Redux|
+|<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/70646350/119318720-4f788180-bc82-11eb-87ff-8201ce9d61c8.png"><img src="https://user-images.githubusercontent.com/70646350/119318720-4f788180-bc82-11eb-87ff-8201ce9d61c8.png" alt="icons8-javascript-26" style="max-width: 100%;"></a>|HTML|CSS|React|Redux|
 |----|----|----|----|----|
 |REST API|webpack|mongoDB|comexpress.js|git|
 
