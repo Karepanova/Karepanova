@@ -1,7 +1,7 @@
 
 |JavaScript|HTML|CSS|React|Redux|
 |REST API|webpack|mongoDB|comexpress.js|git|
-|----:|:----:|:----:|:----:|:----:|
+
 
 <p align='center'>
    <a href="https://t.me/Karepanova_A">
