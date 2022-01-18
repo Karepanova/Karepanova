@@ -1,6 +1,5 @@
-
-|JavaScript|HTML|CSS|React|Redux|
 |----:|:----:|:----:|:----:|:----:|
+|JavaScript|HTML|CSS|React|Redux|
 |REST API|webpack|mongoDB|comexpress.js|git|
 
 
