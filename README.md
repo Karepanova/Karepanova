@@ -8,12 +8,12 @@
 * 🤝 Хочу стать частью дружного коллектива профессионалов
 
 ***
-<div style="text-align:center">
+
 **Мой стек:**
 |JavaScript|HTML|CSS|React|Redux|
 |----|----|----|----|----|
 |REST API|webpack|mongoDB|comexpress.js|git|
-</div>
+
 ***
 
 <p align='center'>
