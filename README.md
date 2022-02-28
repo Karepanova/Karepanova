@@ -35,8 +35,4 @@
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karepanova)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karepanova&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karepanova&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karepanova&theme=solarized_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karepanova)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karepanova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
