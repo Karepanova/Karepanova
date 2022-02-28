@@ -31,3 +31,7 @@
 <p align='center'>
    📫 Как связаться со мной: <a href='mailto:89221006233@yandex.ru'>89221006233@yandex.ru</a>
 </p>
+
+***
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Karepanova=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
